@@ -8,5 +8,6 @@ public class Main {
         new File("results").mkdirs();
 
         DpBenchmark.run();
+        MatchingBenchmark.run();
     }
 }
