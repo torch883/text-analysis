@@ -9,5 +9,6 @@ public class Main {
 
         DpBenchmark.run();
         MatchingBenchmark.run();
+        KasaiBenchmark.run();
     }
 }
